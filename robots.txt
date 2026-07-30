@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ra48sw.solvera.markets/sitemap.xml
